@@ -1,0 +1,30 @@
+.featured-article {
+    margin-bottom: 40px;
+  }
+  
+  .featured-article h2 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .featured-article .meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .featured-article p {
+    line-height: 1.6;
+  }
+  
+  .featured-article a {
+    color: #007bff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .featured-article a:hover {
+    text-decoration: underline;
+  }
+  

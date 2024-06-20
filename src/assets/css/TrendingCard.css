@@ -1,0 +1,38 @@
+.trending-card {
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: #fff;
+    margin: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .trending-card img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .trending-info {
+    padding: 15px;
+  }
+  
+  .trending-info .meta {
+    color: #666;
+    font-size: 14px;
+  }
+  
+  .trending-info h3 {
+    margin-top: 10px;
+  }
+  
+  .trending-info a {
+    color: #007bff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .trending-info a:hover {
+    text-decoration: underline;
+  }
+  

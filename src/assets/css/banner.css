@@ -1,0 +1,17 @@
+.banner {
+    background-image: url('../images/banner.jpg'); /*use relative path. 1 level up from css to assets then navigate to imgs*/
+
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 3em; /* Adjust font size as needed */
+  }
+  
+  .banner p {
+    font-size: 1.5em; /* Adjust font size as needed */
+  }
+  
